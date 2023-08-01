@@ -72,4 +72,4 @@ If a review with the provided ID doesn't exist, a DELETE request to /api/reviews
     }
 
 
-![UML Sequence Diagram](https://showme.redstarplugin.com/d/gpjYpVDs)
+![UML Sequence Diagram](UML.svg)
