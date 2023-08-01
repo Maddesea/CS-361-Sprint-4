@@ -70,3 +70,6 @@ If a review with the provided ID doesn't exist, a DELETE request to /api/reviews
         "message": "Review not found",
         "error": "..."
     }
+
+
+![UML Sequence Diagram](https://showme.redstarplugin.com/d/gpjYpVDs)
